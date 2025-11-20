@@ -26,7 +26,7 @@ This project leverages Natural Language Processing (NLP) and classical machine l
 ### Objective:
 The objective here is to build a model that is able to clearly distinguish the sentiments and thereby predict Anomaly records appropriately, so it is equally important to keep both Precision and Recall scores very high. Hence, it is very much significant to achieve a higher F1 score. 
 
--- 
+--- 
 
 ## Dataset
 
